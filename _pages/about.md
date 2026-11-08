@@ -6,10 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello ``)
+Hello ` `)
+------
 I am a current M.M.Analytics student at McGill University. Prior to McGill, I obtained my undergraduate degree in Advertising, at Shanghai International Studies University. My current research interest revolves around Digital Platform Governance, Native Advertising and the Effect of AI-Mediation on Online Posts. 
 
-### My Technical Skills: 
+## My Technical Skills: 
   - **Programming**: Python, R, SQL, SPSS.
   - **Statistical Modeling**: Linear Regression, Logistic Regression, Autoregression, Hypothesis Testing.
   - **Machine Learning**: Neural Networks, Random Forest, Gradient Boosting, KNN.
@@ -17,42 +18,48 @@ I am a current M.M.Analytics student at McGill University. Prior to McGill, I ob
 
 ## My Research Experience:
 ### 1. Creators’ Strategy Shift For Paywall Adoption 
-Supervisor: Prof. Sameer Borwankar,               Sept.2026 - Present
+Supervisor: Prof. [Sameer Borwankar](https://www.sameerb.com/),               Sept.2026 - Present
 - Conducted literature review on digital platform membership.
 - Proposed a longitudinal comparison of paywall-adopting and free-content creators to investigate how monetization influences content composition and publishing strategies.
 - Designed a longitudinal data collection framework tracking creators’ historical follower counts, posting histories, monetization status, and content attributes.
+------
 ### 2. LLM News Hallucination Analysis 
-Supervisor: Prof. Wang, Ting,                     Feb. 2025 – Apr. 2025
+Supervisor: Prof. [Wang, Ting](http://www.wangting.ac.cn/wangting/index.html)
 - Collected LLM-generated responses (fabricated and hallucinated) to 100 authentic news articles across ChatGPT, Gemini, Claude, Grok, and DeepSeek.
 - Annotated hallucinated and fabricated information, highlighted inaccurate content and categorized outputs by model.
+------
 ### 3. OTA Online Advertising Optimization 
-Supervisor: Prof. Wang, Ting,                 Mar. 2025 – Aug. 2025
+Supervisor: Prof. [Wang, Ting](http://www.wangting.ac.cn/wangting/index.html)
 - Conducted literature reviews on OTA advertising optimization, autoregressive models, and decision tree methods
 - Prepared manuscript, synthesized research findings, and formatted tables and figures for publication.
 - Orally presented at the 2025 International Conference on Big Data and Artificial Intelligence (BDAI).
+------
+## My Publication & Presentation
+- Wang, T., Zhao, Y., & Wang, W. (2025). OTA Advertising Strategies Optimization Using Auto-Regressive Model and Decision Trees. BDAI 2025, pp. 260–265. IEEE [DOI:10.1109/BDAI66031.2025.11325727.](https://doi.org/10.1109/BDAI66031.2025.11325727)
+- I orally presented this article at the conference [BDAI 2025](https://www.bdai.net/2025.html)
+------
+## My Academic Projects
+### Introduction to AI & Deep Learning — AI-Generated Image Detection
+Supervisor: Prof. Sameer Borwankar 
+- Collected 600 authentic images equally distributed across photographs, illustrations and text-rich graphics. 
+- Fine-tuned a CNN model (SReC) to learn the pixel patterns of authentic images calculated the coding-cost gap score combining actual coding cost (NLL) and expected coding cost (entropy).
+------
+### Social Media Analysis — Google Maps Review Analysis
+Supervisor: Prof. Taha Havakhor 
+- Scraped and manually rated the sentiment score for 200 Reviews on Google Map
+- Explored word relations in the reviews using Lift measures and multidimensional scaling (MDS). 
+- Compared lexicon-based sentiment analysis (VADER, SentiStrength) with supervised classification (KNN).
+------
+### Social Media and Big Data Marketing — Rednote Post Analysis 
+Supervisor: Prof. Lu, Xingyu 
+- Scraped 100 posts from a Tea Brand’s homepage and 300 users’ posts mentioning this Tea Brand. 
+- Came up with a unified codebook for group encoding. 
+- Manually labelled the posts into multiple dimensions regarding content topic; sentiment; whether promotional Ads; whether mentioning others, etc.  
+- Conducted descriptive analysis and data visualization based on the posts and labels.
 
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+tion
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
