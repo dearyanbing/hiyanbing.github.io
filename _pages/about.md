@@ -1,20 +1,36 @@
 ---
 permalink: /
-title: "Welcome to Yanbing's Portfolio"
+title: "About Yanbing"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a Master's student in Analytics at McGill University. Prior to McGill, I obtained my undergraduate degree in Advertising, at Shanghai International Studies University. My current research interest revolves around Digital Platform Governance, Native Advertising and the Effect of AI-Mediation on Online Posts. 
+Hello ``)
+I am a current M.M.Analytics student at McGill University. Prior to McGill, I obtained my undergraduate degree in Advertising, at Shanghai International Studies University. My current research interest revolves around Digital Platform Governance, Native Advertising and the Effect of AI-Mediation on Online Posts. 
 
-**My Technical Skills: **
-  - Programming: Python, R, SQL, SPSS.
-  - Statistical Modeling: Linear Regression, Logistic Regression, Autoregression, Hypothesis Testing.
-  - Machine Learning: Neural Networks, Random Forest, Gradient Boosting, KNN.
-  - NLP: TF-IDF, Sentiment Analysis (VADER, SentiStrength), Lift, MDS, LDA Topic Modeling, Attention Mechanisms
+### My Technical Skills: 
+  - **Programming**: Python, R, SQL, SPSS.
+  - **Statistical Modeling**: Linear Regression, Logistic Regression, Autoregression, Hypothesis Testing.
+  - **Machine Learning**: Neural Networks, Random Forest, Gradient Boosting, KNN.
+  - **NLP**: TF-IDF, Sentiment Analysis (VADER, SentiStrength), Lift, MDS, LDA Topic Modeling, Attention Mechanisms
 
- 
+## My Research Experience:
+### 1. Creators’ Strategy Shift For Paywall Adoption 
+Supervisor: Prof. Sameer Borwankar,               Sept.2026 - Present
+- Conducted literature review on digital platform membership.
+- Proposed a longitudinal comparison of paywall-adopting and free-content creators to investigate how monetization influences content composition and publishing strategies.
+- Designed a longitudinal data collection framework tracking creators’ historical follower counts, posting histories, monetization status, and content attributes.
+### 2. LLM News Hallucination Analysis 
+Supervisor: Prof. Wang, Ting,                     Feb. 2025 – Apr. 2025
+- Collected LLM-generated responses (fabricated and hallucinated) to 100 authentic news articles across ChatGPT, Gemini, Claude, Grok, and DeepSeek.
+- Annotated hallucinated and fabricated information, highlighted inaccurate content and categorized outputs by model.
+### 3. OTA Online Advertising Optimization 
+Supervisor: Prof. Wang, Ting,                 Mar. 2025 – Aug. 2025
+- Conducted literature reviews on OTA advertising optimization, autoregressive models, and decision tree methods
+- Prepared manuscript, synthesized research findings, and formatted tables and figures for publication.
+- Orally presented at the 2025 International Conference on Big Data and Artificial Intelligence (BDAI).
+
 
 A data-driven personal website
 ======
