@@ -69,8 +69,8 @@ Supervisor: Prof. Lu, Xingyu
 **Travel With Me**
 ------
 
-<img width="305" height="406" alt="Screenshot 2026-11-08 at 1 26 56 AM" src="https://github.com/user-attachments/assets/b31b73e0-9a70-4cda-bf39-f4e70d771a81" />
-<img width="326" height="405" alt="Screenshot 2026-11-08 at 1 26 25 AM" src="https://github.com/user-attachments/assets/a21a7936-eda2-4239-8a4d-2cd434fb485a" /><img width="544" height="407" alt="Screenshot 2026-11-08 at 1 28 30 AM" src="https://github.com/user-attachments/assets/c1f2b30e-e1da-4dc4-8ec9-b2abd0d59942" />
-<img width="327" height="405" alt="Screenshot 2026-11-08 at 1 27 43 AM" src="https://github.com/user-attachments/assets/fec70d54-f0b6-451a-9908-1d334288b31b" />
-<img width="196" height="237" alt="Screenshot 2026-11-08 at 1 22 28 AM" src="https://github.com/user-attachments/assets/4365ae3b-ce03-4563-95a1-e95890000937" />
+<img width="200" height="250" alt="Screenshot 2026-11-08 at 1 26 56 AM" src="https://github.com/user-attachments/assets/b31b73e0-9a70-4cda-bf39-f4e70d771a81" />
+<img width="200" height="250" alt="Screenshot 2026-11-08 at 1 26 25 AM" src="https://github.com/user-attachments/assets/a21a7936-eda2-4239-8a4d-2cd434fb485a" /><img width="200" height="250" alt="Screenshot 2026-11-08 at 1 28 30 AM" src="https://github.com/user-attachments/assets/c1f2b30e-e1da-4dc4-8ec9-b2abd0d59942" />
+<img width="200" height="250" alt="Screenshot 2026-11-08 at 1 27 43 AM" src="https://github.com/user-attachments/assets/fec70d54-f0b6-451a-9908-1d334288b31b" />
+<img width="200" height="250" alt="Screenshot 2026-11-08 at 1 22 28 AM" src="https://github.com/user-attachments/assets/4365ae3b-ce03-4563-95a1-e95890000937" />
 
