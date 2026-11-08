@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yanbing"
+title                    : "Welcome"
 title_separator          : "-"
 name                     : &name "Yanbing Zhao"
 description              : &description "I'm a M.M.Analytics student at McGill. Prior to the Master's program, I obtained my undergraduate degree in Advertising, at Shanghai International Studies University. /nMy current research interest revolves around Digital Platform Governance, Native Advertising and the Effect of AI-Mediation on Online Posts. /n My Technical Skills: /n- Programming: Python, R, SQL, SPSS./n- Statistical Modeling: Linear Regression, Logistic Regression, Autoregression, Hypothesis Testing./n- Machine Learning: Neural Networks, Random Forest, Gradient Boosting, KNN./n- NLP: TF-IDF, Sentiment Analysis (VADER, SentiStrength), Lift, MDS, LDA Topic Modeling, Attention Mechanisms"   # Update this with a general description of your site, this is the default if not overridden by a page
